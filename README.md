@@ -99,8 +99,8 @@ Each project is architected with industry-standard practices: dedicated datasets
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/chinmaykhatri/internship-in-DS--AIML.git
-cd internship-in-DS--AIML
+git clone https://github.com/donyadav9109-source/Data-science-AI-ML-SITP.git
+cd Data-science-AI-ML-SITP
 ```
 
 ### 2. Create a Virtual Environment
@@ -126,7 +126,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author & Acknowledgements
 
-* **Author**: Chinmay Khatri
+* **Author**: Harsh Yadav
 * **Program**: Summer Internship Training Program (SITP) in Data Science, AI & Machine Learning
 * **Mentorship & Organization**: GRRAS Solutions Pvt. Ltd.
 
